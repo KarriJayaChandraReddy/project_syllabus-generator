@@ -1,0 +1,79 @@
+import java.util.HashMap;
+
+public class IdsAndPasswords {
+    HashMap<String,String> logininfo=new HashMap<String,String>();
+    IdsAndPasswords()
+    {
+        logininfo.put("23551F0001","23551F0001");
+        logininfo.put("23551F0002","23551F0002");
+        logininfo.put("23551F0003","23551F0003");
+        logininfo.put("23551F0004","23551F0004");
+        logininfo.put("23551F0005","23551F0005");
+        logininfo.put("23551F0006","23551F0006");
+        logininfo.put("23551F0007","23551F0007");
+        logininfo.put("23551F0008","23551F0008");
+        logininfo.put("23551F0009","23551F0009");
+        logininfo.put("23551F0010","23551F0010");
+        logininfo.put("23551F0011","23551F0011");
+        logininfo.put("23551F0012","23551F0012");
+        logininfo.put("23551F0013","23551F0013");
+        logininfo.put("23551F0014","23551F0014");
+        logininfo.put("23551F0015","23551F0015");
+        logininfo.put("23551F0016","23551F0016");
+        logininfo.put("23551F0017","23551F0017");
+        logininfo.put("23551F0018","23551F0018");
+        logininfo.put("23551F0019","23551F0019");
+        logininfo.put("23551F0020","23551F0020");
+        logininfo.put("23551F0021","23551F0021");
+        logininfo.put("23551F0022","23551F0022");
+        logininfo.put("23551F0023","23551F0023");
+        logininfo.put("23551F0024","23551F0024");
+        logininfo.put("23551F0025","23551F0025");
+        logininfo.put("23551F0026","23551F0026");
+        logininfo.put("23551F0027","23551F0027");
+        logininfo.put("23551F0028","23551F0028");
+        logininfo.put("23551F0029","23551F0029");
+        logininfo.put("23551F0030","23551F0030");
+        logininfo.put("23551F0031","23551F0031");
+        logininfo.put("23551F0032","23551F0032");
+        logininfo.put("23551F0033","23551F0033");
+        logininfo.put("23551F0034","23551F0034");
+        logininfo.put("23551F0035","23551F0035");
+        logininfo.put("23551F0036","23551F0036");
+        logininfo.put("23551F0037","23551F0037");
+        logininfo.put("23551F0038","23551F0038");
+        logininfo.put("23551F0039","23551F0039");
+        logininfo.put("23551F0040","23551F0040");
+        logininfo.put("23551F0041","23551F0041");
+        logininfo.put("23551F0042","23551F0042");
+        logininfo.put("23551F0043","23551F0043");
+        logininfo.put("23551F0044","23551F0044");
+        logininfo.put("23551F0045","23551F0045");
+        logininfo.put("23551F0046","23551F0046");
+        logininfo.put("23551F0047","23551F0047");
+        logininfo.put("23551F0048","23551F0048");
+        logininfo.put("23551F0049","23551F0049");
+        logininfo.put("23551F0050","23551F0050");
+        logininfo.put("23551F0051","23551F0051");
+        logininfo.put("23551F0052","23551F0052");
+        logininfo.put("23551F0053","23551F0053");
+        logininfo.put("23551F0054","23551F0054");
+        logininfo.put("23551F0055","23551F0055");
+        logininfo.put("23551F0056","23551F0056");
+        logininfo.put("23551F0057","23551F0057");
+        logininfo.put("23551F0058","23551F0058");
+        logininfo.put("23551F0059","23551F0059");
+        logininfo.put("23551F0060","23551F0060");
+        logininfo.put("23551F0061","23551F0061");
+        logininfo.put("23551F0062","23551F0062");
+        logininfo.put("23551F0063","23551F0063");
+        logininfo.put("23551F0064","23551F0064");
+        logininfo.put("23551F0065","23551F0065");
+        logininfo.put("23551F0066","23551F0066");
+    }
+    HashMap getLoginInfo()
+    {
+        return logininfo;
+    }
+
+}
